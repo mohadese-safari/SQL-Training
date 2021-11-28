@@ -1,0 +1,1 @@
+GRANT INSERT ON SCHEMA :: MySchema TO public;
